@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mister-hope.github.io/XiaoLin/index.htmlsitemap.xml
+Sitemap: https://mister-hope.github.io/XiaoLin/sitemap.xml
