@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 小林博客
 heroFullScreen: true
-tagline: 小林同学博客
+tagline: 小林同学博客，测试版
 projects:
   - icon: project
     name: 项目名称
