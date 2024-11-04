@@ -7,6 +7,7 @@ heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 小林博客
 heroFullScreen: true
 tagline: 小林同学博客，测试版
+bgImage: /foo/mmexport1670498570967.jpg
 projects:
   - icon: project
     name: 项目名称
