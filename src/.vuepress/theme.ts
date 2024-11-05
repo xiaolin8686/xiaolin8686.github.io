@@ -6,10 +6,10 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
-  author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
-  },
+  // author: {
+  //   name: "Mr.Hope",
+  //   url: "https://mister-hope.com",
+  // },
 
   iconAssets: "fontawesome-with-brands",
 
